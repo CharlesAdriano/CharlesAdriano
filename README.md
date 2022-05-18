@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CharlesAdriano
-- 👀 I’m interested in work with code or infrastructure.
+- 👀 I’m interested in work with code and infrastructure.
 - 🌱 I’m currently learning MySQL, Python.
 
 - 📫 How to reach me: Here in GitHub.
