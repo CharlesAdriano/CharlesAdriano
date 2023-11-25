@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharlesAdriano
 - 👀 I’m interested in work with code and infrastructure.
-- 🌱 I’m currently learning MySQL, Python.
+- 🌱 I’m currently learning MySQL, Python, HTML and CSS at Sololearnig etc.
 
 - 📫 How to reach me: Here in GitHub.
 
